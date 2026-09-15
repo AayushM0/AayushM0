@@ -79,15 +79,13 @@ $ whoami --verbose
 
 ## Activity & Metrics
 
-<div align="center">
+## Activity & Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=AayushM0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=B57BFF&icon_color=3FA9F5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushM0&layout=compact&theme=tokyonight&hide_border=true&title_color=B57BFF" height="165"/>
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AayushM0&theme=tokyonight&hide_border=true&ring=2EE6A6&fire=B57BFF&currStreakLabel=3FA9F5" height="165"/>
 
 </div>
-
 <br/>
 
 ## Contribution Snake
