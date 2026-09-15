@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="280" viewBox="0 0 420 280">
+  <defs>
+    <style>
+      @keyframes blinkOpen {
+        0%, 86%, 100% { opacity: 1; }
+        89%, 96% { opacity: 0; }
+      }
+      @keyframes blinkShut {
+        0%, 86%, 100% { opacity: 0; }
+        89%, 96% { opacity: 1; }
+      }
+      @keyframes tailWag {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-1.5px) rotate(8deg); }
+      }
+      @keyframes earTwitch {
+        0%, 88%, 100% { transform: translateY(0); }
+        92% { transform: translateY(-2px); }
+      }
+      @keyframes cursorBlink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+      .bar { fill: #161b22; }
+      .title { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }
+      .prompt { fill: #79c0ff; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 13px; }
+      .cursor { fill: #58a6ff; animation: cursorBlink 1s infinite; font-family: ui-monospace, monospace; font-size: 13px; font-weight: bold; }
+      .ascii { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 17px; font-weight: 700; white-space: pre; }
+      .cat-body { fill: #e6edf3; }
+      .cat-eyes { fill: #38bdf8; font-weight: 800; }
+      .cat-nose { fill: #f472b6; font-weight: 800; }
+      .cat-ears { animation: earTwitch 4s infinite ease-in-out; transform-origin: 210px 92px; }
+      .eyes-open { animation: blinkOpen 3.6s infinite; }
+      .eyes-shut { animation: blinkShut 3.6s infinite; }
+      .tail { animation: tailWag 2.4s infinite ease-in-out; transform-origin: 250px 226px; fill: #58a6ff; font-weight: bold; }
+      .status { fill: #7ee787; font-family: ui-monospace, SFMono-Regular, "SF Mono", monospace; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect class="bg" width="420" height="280" rx="14"/>
+  <rect class="bar" width="420" height="36" rx="14"/>
+  <rect fill="#161b22" y="24" width="420" height="12"/>
+  <line x1="0" y1="36" x2="420" y2="36" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window Controls -->
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="18" r="5" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="210" y="22" class="title" text-anchor="middle">cat.sh — bash — 420x280</text>
+
+  <!-- Terminal Prompt -->
+  <text x="26" y="65" class="prompt">$ ./cat.sh</text>
+  <text x="105" y="65" class="cursor">_</text>
+
+  <!-- ASCII Cat Art (Centered) -->
+  <g class="ascii" text-anchor="middle">
+    <!-- Ears with twitch -->
+    <g class="cat-ears">
+      <text x="210" y="98" class="cat-body"> /\_/\ </text>
+    </g>
+
+    <!-- Head & Eyes (Open) -->
+    <g class="eyes-open">
+      <text x="210" y="122" class="cat-body">( <tspan class="cat-eyes">o</tspan>.<tspan class="cat-eyes">o</tspan> )</text>
+    </g>
+
+    <!-- Head & Eyes (Blinking) -->
+    <g class="eyes-shut">
+      <text x="210" y="122" class="cat-body">( <tspan class="cat-eyes">-</tspan>.<tspan class="cat-eyes">-</tspan> )</text>
+    </g>
+
+    <!-- Whiskers & Nose -->
+    <text x="210" y="146" class="cat-body">&gt; <tspan class="cat-nose">^</tspan> &lt;</text>
+
+    <!-- Body & Paws -->
+    <text x="210" y="170" class="cat-body"> /|   |\ </text>
+    <text x="210" y="194" class="cat-body">(_|   |_)</text>
+    <text x="210" y="218" class="cat-body">  |     |  </text>
+    
+    <!-- Base and Tail -->
+    <text x="210" y="240" class="cat-body"> |_____|<tspan class="tail">~</tspan></text>
+  </g>
+
+  <!-- Status Line -->
+  <text x="210" y="264" class="status" text-anchor="middle">[status: purring · agentic workflows active]</text>
+</svg>
