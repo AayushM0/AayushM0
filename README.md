@@ -77,35 +77,6 @@ $ whoami --verbose
 
 <br/>
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AayushM0/LACE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushM0&repo=LACE&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AayushM0/DeployIt-CLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushM0&repo=DeployIt-CLI&theme=radical&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/AayushM0/Odoo-round1-team-hacknova">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushM0&repo=Odoo-round1-team-hacknova&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/AayushM0/CV-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushM0&repo=CV-Generator&theme=synthwave&hide_border=true" />
-</a>
-
-</div>
-
-| Project | What it does |
-|---|---|
-| [**LACE**](https://github.com/AayushM0/LACE) | Autonomous agent architecture and tooling built in Python for local-first, context-aware workflows. |
-| [**DeployIt-CLI**](https://github.com/AayushM0/DeployIt-CLI) | A JavaScript CLI utility that streamlines and speeds up deployment workflows. |
-| [**Odoo-round1-team-hacknova / RentalFlow**](https://github.com/AayushM0/Odoo-round1-team-hacknova) | Full-stack rental management system built during a competitive hackathon sprint. |
-| [**CV-Generator**](https://github.com/AayushM0/CV-Generator) | An interactive React app for building and exporting polished resumes/CVs on the fly. |
-
-<br/>
-
 ## Activity & Metrics
 
 <div align="center">
@@ -143,10 +114,10 @@ $ whoami --verbose
 <a href="https://github.com/AayushM0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://aayushm0.github.io">
+<a href="https://aayushmittal.me">
   <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/AayushM0">
+<a href="https://www.linkedin.com/in/aayush-mittal620/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
