@@ -9,12 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ 
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4169E1,60:1FB9E8,100:20E3B2&height=220&section=header&text=Aayush%20Mittal&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Autonomous%20Agent%20Builder&descAlignY=58&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&lines=B.Tech+Student+%26+Full-Stack+Developer" alt="typing-1"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=600&lines=Building+Autonomous+Agents+%26+Intelligent+Tools" alt="typing-2"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Hackathon+Competitor+%26+Open-Source+Explorer" alt="typing-3"/>
-
 </div>
 
 <br/>
