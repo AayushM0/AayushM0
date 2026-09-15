@@ -3,7 +3,7 @@
 
 <br/>
 
-## 💻 whoami
+## whoami
 
 ```
 $ whoami --verbose
@@ -12,7 +12,7 @@ $ whoami --verbose
 ```json
 {
   "developer": "Aayush Mittal",
-  "status": "Undergrad B.Tech Student, India 🇮🇳",
+  "status": "Undergrad B.Tech Student, India",
   "focus": ["Full-Stack Web Dev", "Agentic AI Architectures", "Developer Tooling"],
   "operating_rhythm": "Burst-Mode Builder (48h hyper-focus sprints & rapid iteration)",
   "current_mission": "Bridging full-stack engineering with autonomous AI workflows"
@@ -21,7 +21,7 @@ $ whoami --verbose
 
 <br/>
 
-## 🧰 Tech Stack Matrix
+## Tech Stack Matrix
 
 **Languages**
 
@@ -64,32 +64,32 @@ $ whoami --verbose
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| Project                                                                                                    | What it does                                                                                        |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 🧠[**LACE**](https://github.com/AayushM0/LACE)                                                        | Autonomous agent architecture and tooling built in Python for local-first, context-aware workflows. |
-| ⚡[**DeployIt-CLI**](https://github.com/AayushM0/DeployIt-CLI)                                        | A JavaScript CLI utility that streamlines and speeds up deployment workflows.                       |
-| 🏆[**Odoo-round1-team-hacknova / RentalFlow**](https://github.com/AayushM0/Odoo-round1-team-hacknova) | Full-stack rental management system built during a competitive hackathon sprint.                    |
-| 📄[**CV-Generator**](https://github.com/AayushM0/CV-Generator)                                        | An interactive React app for building and exporting polished résumés/CVs on the fly.              |
+| Project                                                                                                  | What it does                                                                                        |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [**LACE**](https://github.com/AayushM0/LACE)                                                        | Autonomous agent architecture and tooling built in Python for local-first, context-aware workflows. |
+| [**DeployIt-CLI**](https://github.com/AayushM0/DeployIt-CLI)                                        | A JavaScript CLI utility that streamlines and speeds up deployment workflows.                       |
+| [**Odoo-round1-team-hacknova / RentalFlow**](https://github.com/AayushM0/Odoo-round1-team-hacknova) | Full-stack rental management system built during a competitive hackathon sprint.                    |
+| [**CV-Generator**](https://github.com/AayushM0/CV-Generator)                                        | An interactive React app for building and exporting polished resumes/CVs on the fly.                |
 
 <br/>
 
-## 📊 Activity & Metrics
-
-<div align="center">
-
-<br/>
-
-## 🐍 Contribution Snake
+## Activity & Metrics
 
 <div align="center">
 
 <br/>
 
-## 📬 Connect
+## Contribution Snake
+
+<div align="center">
+
+<br/>
+
+## Connect
 
 <div align="center">
 
@@ -97,8 +97,4 @@ $ whoami --verbose
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20E3B2,40:1FB9E8,75:4169E1,100:8A2BE2&height=120&section=footer" width="100%"/>
 
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
