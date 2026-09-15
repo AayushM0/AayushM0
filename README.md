@@ -19,7 +19,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aayushmittal.me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayushmittal.me)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](./resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1DGgYRa-e3omY76A3OzRo3b8NCA5H17PH/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushmittal620@gmail.com)
 
 </td>
