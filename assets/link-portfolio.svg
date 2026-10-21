@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="104" viewBox="0 0 480 104" role="img" aria-labelledby="title">
+<title id="title">Selected work — aayushmittal.me</title>
+<rect x=".5" y=".5" width="479" height="103" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="24" width="3" height="56" rx="1.5" fill="#39d353"/>
+<g transform="translate(20 32)" fill="none" stroke="#39d353" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8 15l-5 5 5 5m24-10l5 5-5 5M24 9l-8 22"/></g>
+<text x="80" y="25" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#39d353">01 / EXPLORE</text>
+<text x="80" y="53" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Selected work</text>
+<text x="80" y="78" font-family="monospace" font-size="12" fill="#8b949e">aayushmittal.me</text>
+<path d="M437 43h15v15m-15 0l15-15" fill="none" stroke="#39d353" stroke-width="1.8"/>
+</svg>

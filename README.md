@@ -1,26 +1,27 @@
 <div align="center">
 
+<img src="./assets/name-heatmap.svg" width="100%" alt="Aayush Mittal written in green contribution-style squares" />
+
+<br/>
+
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/cat.svg" width="370" alt="Animated ASCII artwork" />
+<img src="./assets/cat.svg" width="390" height="406" alt="Animated ASCII cat artwork" />
 
 </td>
 <td width="55%" valign="middle" align="left">
 
-### `aayush@github ~ $ whoami`
+**Full-stack developer building with AI.**
 
-# Aayush Mittal
+I build web applications, autonomous AI workflows, and tools that simplify everyday development.
 
-> **Full-Stack Developer · Agentic AI · Developer Tooling**  
-> Building systems that bridge full-stack engineering with autonomous AI workflows.
-
+<a href="https://aayushmittal.me"><img src="./assets/link-portfolio.svg" width="480" alt="Selected work - aayushmittal.me" /></a>
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aayushmittal.me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayushmittal.me)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1DGgYRa-e3omY76A3OzRo3b8NCA5H17PH/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushmittal620@gmail.com)
+<a href="https://drive.google.com/file/d/1DGgYRa-e3omY76A3OzRo3b8NCA5H17PH/view?usp=sharing"><img src="./assets/link-resume.svg" width="480" alt="The story so far - read my resume" /></a>
+<br/>
+<a href="mailto:aayushmittal620@gmail.com"><img src="./assets/link-email.svg" width="480" alt="Email Aayush" /></a>
 
 </td>
 </tr>
