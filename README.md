@@ -19,7 +19,7 @@ I build web applications, autonomous AI workflows, and tools that simplify every
 
 <a href="https://aayushmittal.me"><img src="./assets/link-portfolio.svg" width="480" alt="Selected work - aayushmittal.me" /></a>
 <br/>
-<a href="https://drive.google.com/file/d/1DGgYRa-e3omY76A3OzRo3b8NCA5H17PH/view?usp=sharing"><img src="./assets/link-resume.svg" width="480" alt="The story so far - read my resume" /></a>
+<a href="./assets/AayushResume_v10.pdf"><img src="./assets/link-resume.svg" width="480" alt="The story so far - read my resume" /></a>
 <br/>
 <a href="mailto:aayushmittal620@gmail.com"><img src="./assets/link-email.svg" width="480" alt="Email Aayush" /></a>
 
